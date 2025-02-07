@@ -1,6 +1,7 @@
 # Fluxus https://discord.com/invite/bjqZtsqA5v
 
 **IP a Localización**
+
 Esta herramienta permite obtener la localización geográfica de una dirección IP. Es útil para obtener información sobre la ubicación aproximada de usuarios, dispositivos o servidores.
 
 **Uso responsable**  
